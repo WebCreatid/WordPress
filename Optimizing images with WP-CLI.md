@@ -6,4 +6,5 @@ You need to install
 * EWWW Image Optimizer Plugin
 
 Open ssh and type the line bellow
+
 `wp --allow-root ewwwio optimize media 5`
